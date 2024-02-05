@@ -50,4 +50,4 @@ If you have any active XDebug listener while starting RoadRunner with XDebug ena
 Start server, enable listener and run:
 ``docker-compose exec roadrunner rr -c /etc/.rr.yaml reset http``
 
-_Uladzimir Sadkou_: hofirma@gmail.com 
+devmaster929@gmail.com
